@@ -1,4 +1,4 @@
-# LiFi-Full service
+# NeuraRetrieval LiFi: AI-Powered Music Discovery
 This project is an application that helps people search for the song's name based on a given audio from the user. We use the Neural Audio Fingerprint model which was proposed in a paper published in 2021, [NEURAL AUDIO FINGERPRINT FOR HIGH-SPECIFIC AUDIO RETRIEVAL BASED ON CONTRASTIVE LEARNING](https://arxiv.org/pdf/2010.11910.pdf) to embed audio, FAISS for getting items, and we use our method that we self-design to calculate the similarity between each candidate song and the input audio.
 ## Source code
 Please follow the below link to access the source code.
