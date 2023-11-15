@@ -5,6 +5,9 @@ Please follow the below link to access the source code.
 
 [https://gitlab.com/thompsondd/lifi-fullservice](https://gitlab.com/thompsondd/lifi-fullservice)
 
+## DEMO
+![](./LiFi_demo.gif)
+
 ## Getting started
 
 ### Manual
